@@ -174,3 +174,8 @@ Interested in Artificial Intelligence, Agentic AI, Robotics, and Intelligent Aut
 *Building intelligent systems, one project at a time.* 🤖
 
 ⭐ If you find this project interesting, consider giving this repository a star!
+
+
+## 📸 Workflow Preview
+
+![SANDEEPA AI AGENT Workflow](%7B68A83EC6-B404-41D9-BF99-3D298EEC817E%7D.png)
