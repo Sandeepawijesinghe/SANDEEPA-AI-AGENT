@@ -165,7 +165,7 @@ This project was developed to explore and practice:
 
 Aspiring AI Engineer | Mechatronics & Robotics Enthusiast
 
-Interested in Artificial Intelligence, Agentic AI, Robotics, and Intelligent Automation.
+Interested in Artificial Intelligence, Agentic AI, Generative AI, Robotics, and Intelligent Automation.
 
 **GitHub:** [Sandeepawijesinghe](https://github.com/Sandeepawijesinghe)
 
